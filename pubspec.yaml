@@ -21,6 +21,10 @@ dependencies:
     git:
       url: https://github.com/JuliaMStahl/dashboard.git
       ref: main
+  acesso:
+    git:
+      url: https://github.com/JuliaMStahl/acesso.git
+      ref: master
 
 dev_dependencies:
   flutter_test:
