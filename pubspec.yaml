@@ -24,7 +24,7 @@ dependencies:
   acesso:
     git:
       url: https://github.com/JuliaMStahl/acesso.git
-      ref: master
+      ref: ed499d7a2296120a00b8f0f5d982aefe2e9e6312
 
 dev_dependencies:
   flutter_test:
